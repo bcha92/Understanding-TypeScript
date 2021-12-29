@@ -1,2 +1,2 @@
-# Understanding_TypeScript
+# Understanding TypeScript
 Introduction to TypeScript
